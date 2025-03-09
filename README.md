@@ -1,6 +1,6 @@
 #Untitle-Ui.
 
-Landing page simples com NextJs, TypeScript e TailwindCSS.
+Landing page simples com NextJs, TypeScript e TailwindCSS com responsividade.
 
 ![cap1](https://github.com/user-attachments/assets/14a10860-3217-4ad1-8095-68232af049c8)
 ![cap2](https://github.com/user-attachments/assets/9cbd9939-2868-4cfd-999b-af0c64148fb0)
